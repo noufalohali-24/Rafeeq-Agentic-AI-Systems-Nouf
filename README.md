@@ -151,13 +151,4 @@ https://github.com/SDAIAAcademy
 
 ## Author
 
-GitHub Username: YOUR_GITHUB_USERNAME
-
-This repository contains educational project work completed for the SDAIA Academy training program.
-
----
-
-## License
-
-Educational use only.
-This repository is submitted as part of a training and assessment program.
+GitHub Username: noufalohali-24
