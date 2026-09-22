@@ -148,7 +148,15 @@ SDAIA Academy GitHub:
 https://github.com/SDAIAAcademy
 
 ---
+## Technical Documentation
 
+The following technical documents provide detailed information about the project implementation, security validation, progress tracking, and assessment evidence.
+
+- PROJECT_REPORT.md
+- SECURITY_ASSESSMENT.md
+- EVIDENCE_CARD.md
+- LEARNING_PROGRESS.md
+---
 ## Author
 
 GitHub Username: noufalohali-24
